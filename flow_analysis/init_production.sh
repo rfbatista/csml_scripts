@@ -1,0 +1,1 @@
+csml-studio init -k AxftV5GOnpkr0A9OxB0WU7Hg1XXEEbq0 -s sDMjMmcZvJfIAm2R8jccin2PP4FcsKYx7qfK9wdvANjd3wWl5ZJdMpYU6hd5A0yc
